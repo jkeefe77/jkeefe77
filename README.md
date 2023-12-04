@@ -20,7 +20,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 🖥️: Certified full stack web developer through CareerFoundry
 🎸🎮📖: In my free time, I play bass guitar, enjoy gaming when I catch a minute, and read about the latest trends in the tech industry
 📫: How to reach me:  <a href="www.linkedin.com/in/jamesvkeefe">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
 
 
 
