@@ -1,10 +1,28 @@
-- 👋 Hi, I’m James
-- 👀 I’m interested in seeking full time employment as a full stack web developer.  
-- 🌱 I’m currently learning Pixee ai integration with Github as well as Python specialization
-- 💞️ I’m looking to collaborate on open source projects as a means to build my network and refine my coding skills
-- 📫 How to reach me: jvkeefe@gmail.com
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>James - Full Stack Web Developer</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
 
-<!---
-jkeefe77/jkeefe77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div class="container">
+  <div class="intro">
+    <h1>👋 Hi, I'm James</h1>
+    <p class="animated-text">👀 I'm interested in seeking full-time employment as a full-stack web developer.</p>
+    <p class="animated-text">🌱 I'm currently learning Pixee AI integration with GitHub and Python specialization.</p>
+    <p class="animated-text">💞 I'm looking to collaborate on open source projects to build my network and refine my coding skills.</p>
+    <p class="animated-text">📫 How to reach me: <a href="mailto:jvkeefe@gmail.com">jvkeefe@gmail.com</a></p>
+  </div>
+  <div class="links">
+    <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">Connect with me on LinkedIn</a>
+  </div>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+<script src="scripts.js"></script>
+
+</body>
+</html>
