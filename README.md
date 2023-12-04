@@ -5,32 +5,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Full Stack Web Developer</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-    }
 
-    div {
-      background-color: #f4f4f4;
-      padding: 20px;
-      text-align: center;
-    }
-
-    h1 {
-      font-size: 2rem;
-      margin-bottom: 10px;
-    }
-
-    p {
-      font-size: 1rem;
-    }
-
-    a {
-      color: #0077cc;
-      text-decoration: none;
-      font-weight: bold;
-    }
-  </style>
 </head>
 
 <body>
