@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
  </head>
 <div id="header" align="center">
-  <img src="[https://media.giphy](https://media.giphy.com/media/pOEbLRT4SwD35IELiQ/giphy.gif)" width="100"/>
+  <img src="https://media.giphy.com/media/pOEbLRT4SwD35IELiQ/giphy.gif" width="100"/>
 <body>
 
   <div>
