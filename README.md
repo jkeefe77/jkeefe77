@@ -14,12 +14,12 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 ---
-👨‍💻: About Me:
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from New Hampshire.
-⌨️: I’m currently working as a python programmer and contributing to frontend and backend for building web applications.
-🖥️: Certified full stack web developer through CareerFoundry
+👨‍💻**About Me:**
+- I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from New Hampshire.
+- ⌨️ I’m currently working as a python programmer and contributing to frontend and backend for building web applications.
+- 🖥️ Certified full stack web developer through CareerFoundry
 🎸🎮📖: In my free time, I play bass guitar, enjoy gaming when I catch a minute, and read about the latest trends in the tech industry
-📫: How to reach me:  <a href="www.linkedin.com/in/jamesvkeefe">
+- 📫 How to reach me:  <a href="www.linkedin.com/in/jamesvkeefe">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
 
 
