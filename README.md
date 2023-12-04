@@ -17,7 +17,8 @@
 - I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from New Hampshire.
 - ⌨️ I’m currently working as a Python programmer and contributing to frontend and backend for building web applications.
 - 🖥️ Certified full stack web developer through CareerFoundry.
-- 🎸🎮📖 In my free time, I play bass guitar and enjoy gaming when I can catch a minute😅. I read up on the latest trends in the tech industry on a daily basis and am always looking to develop and apply my skills as web developer.
+- 👪🎸🎮📖 In my free time, I enjoy spending time with my family, playing bass guitar, gaming, and reading up on the latest trends in the tech industry.
+- 🔭 I am always looking to develop and apply my skills by taking on new challenges
 - 📫 How to reach me:  <a href="https://www.linkedin.com/in/jamesvkeefe">
       <img src="https://img.shields.io/badge/JKeefe-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
     </a>
