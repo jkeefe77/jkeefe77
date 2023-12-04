@@ -15,12 +15,12 @@
 </div>
 ---
 👨‍💻: About Me:
----
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from New Hampshire.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+⌨️: I’m currently working as a python programmer and contributing to frontend and backend for building web applications.
+🖥️: Certified full stack web developer through CareerFoundry
+🎸🎮📖: In my free time, I play bass guitar, enjoy gaming when I catch a minute, and read about the latest trends in the tech industry
+📫: How to reach me:  <a href="www.linkedin.com/in/jamesvkeefe">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"
 
-- :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
