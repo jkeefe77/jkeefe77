@@ -1,5 +1,3 @@
-<div align="center" id="header">
-  <img src="https://media.giphy.com/media/lbcLMX9B6sTsGjUmS3/giphy.gif"/>
 
   <div id="badges"> 
     <a href="https://www.linkedin.com/in/jamesvkeefe">
