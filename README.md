@@ -39,5 +39,5 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android_Studio" alt="AndroidStudio" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" title="Babel" alt="Babel" width="40" height="40"/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg title="Vue" alt="Vue" width="40" height="40"/>
 </div>
